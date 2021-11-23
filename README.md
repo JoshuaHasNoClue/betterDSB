@@ -1,2 +1,2 @@
 # betterDSB
-A netter DSB Website
+A better DSB Website
